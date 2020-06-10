@@ -1,0 +1,25 @@
+<DOCTYPE! HTML>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Alan Ananas et la conquête de l'espace</title>
+</head>
+
+<body> 
+
+    <h1>Découvre l'histoire de la conquête de l'histoire avec Alan Ananas</h1>
+    <h2>Les débuts de la découverte de l'espace</h2>
+        <p>L'URSS (ancienne Rusie) fût les premiers à envoyer une fusée dans l'espace ! Etonnant non ? Ils ont commencé avec 
+           la R-7 Semiorka « Petit 7 » en septembre 1957, et ensuite avec une des plus connue, Spoutnik en octobre 1957. Ils sont aussi les permiers 
+           a avoir envoyé un être vivant dans l'espace ! Il s'agisait de Laïka une chienne soviétique.</p>
+
+    <h2>Les Etat-Unis répliquent</h2>
+        <p>Il faut que tu sache qu'en cette période les Etats-Unis et l'URSS ne sont pas en bon terme. En effet ils sont en pleine guerre froide, pour t'expliquer brièvement ils sont en guerre sans combat. 
+            Ils ont alors envoyé un vol habité par des humains en 1958. </p>
+        <p>Pour montrer leur puissance les Etats-Unis ont alors décidé d'envoyer des hommes sur la LUNE, oui oui la lune. Il s'agit de la mission Apollo 11 lancé le 20 juillet 1969.</p>
+
+    <h2>De nos jours ?</h2>
+        <p> Et bien, il y a peu un fusée SPACEX a été envoyé dans l'espace. En effet le créateur de cette entreprise, Elon Musk a pour ambition
+            de mettre en place des vols à destination de mars</p>
+</body>
+</html>
